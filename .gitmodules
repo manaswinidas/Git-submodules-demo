@@ -1,0 +1,9 @@
+[submodule "oh-github-source"]
+	path = oh-github-source
+	url = git@github.com:manaswinidas/oh-github-source.git
+[submodule "oh-twitter-source"]
+	path = oh-twitter-source
+	url = git@github.com:manaswinidas/oh-twitter-source.git
+[submodule "github-action-demo"]
+	path = github-action-demo
+	url = git@github.com:manaswinidas/github-action-demo.git
